@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JUNIT">
+    <CLASSES>
+      <root url="file://F:/SeleniumDownloadFolder/JUNIT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/SeleniumDownloadFolder/JUNIT" />
+    </SOURCES>
+    <jarDirectory url="file://F:/SeleniumDownloadFolder/JUNIT" recursive="false" />
+    <jarDirectory url="file://F:/SeleniumDownloadFolder/JUNIT" recursive="false" type="SOURCES" />
+  </library>
+</component>
